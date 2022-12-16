@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ciornaiaoxana
 - 👀 I’m interested in learning IT
-- 🌱 I’m currently learning QA
+- 🌱 I’m currently working as an Accessibility QA
 
 
 <!---
