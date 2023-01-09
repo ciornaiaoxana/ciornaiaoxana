@@ -22,13 +22,13 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/oxana-ciornaia/) for a 
 
 
 
-# Portfolio
+# Test documentation
 
-<ul>
-<li> [Checklists](https://www.linkedin.com/in/oxana-ciornaia/) </li>
-<li> [Test cases](https://www.linkedin.com/in/oxana-ciornaia/) </li>
-<li> [Bug reports](https://www.linkedin.com/in/oxana-ciornaia/) </li>
-</ul>
+
+- [Checklists](https://www.linkedin.com/in/oxana-ciornaia/) </li>
+- [Test cases](https://www.linkedin.com/in/oxana-ciornaia/) </li>
+- [Bug reports](https://www.linkedin.com/in/oxana-ciornaia/) </li>
+
 
 
 ## Contacts
