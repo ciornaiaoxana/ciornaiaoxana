@@ -16,7 +16,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/oxana-ciornaia/) for a 
 
 
 <p>
-<a href="https://github.com/ciornaiaoxana/LearnHTML" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a> <a href="https://www.linkedin.com/in/oxana-ciornaia" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a> <a href="https://www.linkedin.com/in/oxana-ciornaia" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /></a> <a href="https://github.com/ciornaiaoxana/Python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a> 
+<a href="https://github.com/ciornaiaoxana/LearnHTML" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a> <a href="https://github.com/ciornaiaoxana/SQL" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a> <a href="https://www.linkedin.com/in/oxana-ciornaia" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /></a> <a href="https://github.com/ciornaiaoxana/Python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a> 
 </p>
 
 
