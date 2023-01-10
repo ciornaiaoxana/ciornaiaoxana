@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I’m **QA Engineer** with over 6 months of experience in Web Accessibility Testing. 
-- Perform accessibility audits of websites, mobile web & native apps in accordance with Web Content Accessibility Guidelines (WCAG) 2.0 and 2.1 Level A, AA
+- Perform accessibility audits of websites in accordance with Web Content Accessibility Guidelines (WCAG) 2.0 and 2.1 Level A, AA
 - Provide technical and best practice recommendations for resolving accessibility issues
 - Use of tools such as screen readers, browser developer tools, automated accessibility testing tools, HTML validators etc.
 - Experience testing websites from various industries such as Education & Learning, Finance & Investing, Healthcare & Fitness, Retail & E-tail
