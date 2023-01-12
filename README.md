@@ -8,7 +8,7 @@
 <li> Experience testing websites from various industries such as Education, Finance, Healthcare, Retail, E-tail etc. </li>
 </ul>
 
-Please find me on <a href="https://www.linkedin.com/in/oxana-ciornaia/" target="_blank">LinkedIn</a></li> for a more detailed description of my full work experience, education and certification.
+Please find me on <a href="https://www.linkedin.com/in/oxana-ciornaia/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li> for a more detailed description of my full work experience, education and certification.
 
 <h2> My CV </h2>
 <p>
