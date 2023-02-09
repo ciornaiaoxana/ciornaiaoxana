@@ -28,9 +28,9 @@ Please find me on <a href="https://www.linkedin.com/in/oxana-ciornaia/" target="
 <h2> Test documentation </h2>
 
 <ul> 
-<li> <a href="https://www.linkedin.com/in/oxana-ciornaia/" target="_blank">Checklists</a></li>
-<li> <a href="https://www.linkedin.com/in/oxana-ciornaia/" target="_blank">Test cases</a></li>
-<li> <a href="https://www.linkedin.com/in/oxana-ciornaia/" target="_blank">Bug reports</a></li>
+<li> <a href="https://docs.google.com/spreadsheets/d/1kCCBhHWwWc02w7CfiiJOR_mw0UI-wT_gjBm8aVS2E2I/edit?usp=share_link" target="_blank">Checklists</a></li>
+<li> <a href="">Test cases</a></li>
+<li> <a href="">Bug reports</a></li>
   </ul> 
   
   
