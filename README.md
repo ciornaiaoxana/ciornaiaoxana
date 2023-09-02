@@ -1,6 +1,6 @@
 <h1> Hi there 👋 </h1>
 
-<p> I’m <b>QA Engineer</b> with over 6 months of experience in Web Accessibility Testing. </p>
+<p> I’m <b>QA Engineer</b> with 1 year of experience in Web Accessibility Testing. </p>
 <ul>
 <li> Perform accessibility audits of websites in accordance with Web Content Accessibility Guidelines (WCAG) 2.0 and 2.1 Level A, AA </li>
 <li> Provide technical and best practice recommendations for resolving accessibility issues </li>
