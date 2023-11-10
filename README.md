@@ -19,7 +19,7 @@ Please find me on <a href="https://www.linkedin.com/in/oxana-ciornaia/" target="
 <h2> Skills </h2>
 
 <p>
-<a href="https://github.com/ciornaiaoxana/LearnHTML" target="_blank" ><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a> <a href="https://github.com/ciornaiaoxana/SQL" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a> <a href="https://www.linkedin.com/in/oxana-ciornaia" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /></a> <a href="https://github.com/ciornaiaoxana/Python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a> 
+<a href="https://github.com/ciornaiaoxana/LearnHTML" target="_blank" ><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a> <a href="https://github.com/ciornaiaoxana/SQL" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>  <a href="https://github.com/ciornaiaoxana/Python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a> 
 </p>
 
 
@@ -30,7 +30,6 @@ Please find me on <a href="https://www.linkedin.com/in/oxana-ciornaia/" target="
 <ul> 
 <li> <a href="https://drive.google.com/drive/folders/1FjqXfLHXWAEajGv9S8DGIDQ6zhDEWEFV?usp=share_link" target="_blank">Checklists</a></li>
 <li> <a href="https://drive.google.com/drive/folders/1iWoCiY3j9RaG_Vda2-q-he3Z-30feDJv?usp=share_link" target="_blank">Test cases</a></li>
-<li> <a href="https://drive.google.com/drive/folders/1oz6Hr4KQWBN-pjmu__nvcX4c7VwAghKk?usp=share_link" target="_blank">Bug reports</a></li>
   </ul> 
   
   
