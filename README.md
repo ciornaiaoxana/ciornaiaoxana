@@ -12,7 +12,7 @@ Please find me on <a href="https://www.linkedin.com/in/oxana-ciornaia/" target="
 
 <h2> My CV </h2>
 <p>
-<a href="https://www.linkedin.com/in/oxana-ciornaia/" target="_blank">Resume</a></li>
+<a href="https://drive.google.com/file/d/1keMPbIiCR5leW81wLXYWizdm8I6vKZa6/view?usp=drive_link" target="_blank">Resume</a></li>
 </p>
 
 
